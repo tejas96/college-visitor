@@ -1,0 +1,14 @@
+export const LOGIN = 'Login';
+export const VISITOR_REGISTRATION = 'Registration';
+export const LOGIN_OPTIONS = 'LoginOptions';
+export const ADMIN_LOGIN = 'AdminLogin';
+export const ADMIN_HOME = 'AdminHome';
+export const OTP = 'Otp';
+export const SPLASH = 'Splash';
+export const VISITOR_BOTTOM_TAB = 'VisitorBottomTabs';
+export const VISITOR_ACCOUNT = 'VisitorAccount';
+export const VISITOR_HISTORY = 'VisitorHistory';
+export const VISITOR_HOME = 'VisitorHome';
+export const ADMIN_BOTTOM_TAB = 'AdminBottomTab';
+export const ADMIN_ACCOUNT = 'AdminAccount';
+export const ADMIN_REGISTRATION = 'AdminRegistration';

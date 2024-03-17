@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866216866391",
+    "project_id": "collage-visitors",
+    "storage_bucket": "collage-visitors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866216866391:android:9254d66f11380ceace2912",
+        "android_client_info": {
+          "package_name": "com.collagevisitors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAXEWtYyKhtG49KY7TOVVBdVXLwBEYVc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
